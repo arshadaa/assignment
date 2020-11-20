@@ -1,0 +1,42 @@
+
+
+
+
+.custome-bg{
+    
+ background:#455A64!important;
+    
+}
+.custom-bg{
+    background:#455A64 ;
+}
+
+
+.list-group-item.active
+{
+	background: #263238!important;
+	border-color: #424242;
+}
+
+.discount-label{
+	
+	font-size: 10px!important;
+	font-style: italic!important;
+	
+}
+
+.product-card:hover{
+	background-color: windowframe;
+	cursor: pointer;
+	
+}
+.card-body:hover{
+    background-color: windowframe;
+	cursor: pointer;
+	
+}
+
+
+
+
+
